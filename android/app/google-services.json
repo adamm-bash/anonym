@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224874190255",
+    "project_id": "anonym-a536f",
+    "storage_bucket": "anonym-a536f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224874190255:android:466c77d2d400a50c2c0b5a",
+        "android_client_info": {
+          "package_name": "com.example.anonym_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224874190255-3iiuphelu6g8sd5k088l79cgo2ubf3l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8kTKHer0dNNzovUU3QhtVz7otNsN2U1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224874190255-3iiuphelu6g8sd5k088l79cgo2ubf3l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
